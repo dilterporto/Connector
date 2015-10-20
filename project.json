@@ -1,0 +1,12 @@
+﻿{
+  "version": "1.0.0-*",
+  "dependencies": {
+    "Microsoft.AspNet.Http": "1.0.0-beta6",
+    "Microsoft.AspNet.Authentication.OpenIdConnect": "1.0.0-beta6",
+    "ServiceStack.Text": "4.0.40.0"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}
